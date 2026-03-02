@@ -11,6 +11,19 @@ A comprehensive Windows batch utility for optimizing gaming performance.
 - System debloating
 - One-click complete optimization
 
+## Comparison with Other Tools
+
+![Radar Chart](amethyst_comparison_radar.png)
+![Feature Matrix](amethyst_comparison_matrix.png)
+![Detailed Comparison](amethyst_detailed_comparison.png)
+
+### Why Choose Amethyst Optimizer?
+
+- **Most Features**: 18 optimization categories vs 1-15 for competitors
+- **Truly Free**: No paid features, no ads, no registration
+- **Portable**: Single batch file, no installation
+- **Customizable**: Pick specific optimizations instead of all-or-nothing
+- **Safe**: Create restore points, easy revert options
 ## Usage
 1. Right-click `AmethystOptimizer.bat`
 2. Select "Run as administrator"
