@@ -1,15 +1,15 @@
-# Amethyst Gaming Optimizer v7.1
+# Amethyst Gaming Optimizer v2.0
 
 A comprehensive Windows batch utility for optimizing gaming performance.
 
 ## Features
-- 18 optimization categories
+- 50+ optimizations
 - Service management
 - Registry tweaks
 - Network optimization
 - GPU/CPU specific tweaks
 - System debloating
-- One-click complete optimization
+- 
 
 ## Comparison with Other Tools
 
@@ -19,7 +19,7 @@ A comprehensive Windows batch utility for optimizing gaming performance.
 
 ### Why Choose Amethyst Optimizer?
 
-- **Most Features**: 18 optimization categories vs 1-15 for competitors
+- **Most Features**: 50 optimization categories vs 1-15 for competitors
 - **Truly Free**: No paid features, no ads, no registration
 - **Portable**: Single batch file, no installation
 - **Customizable**: Pick specific optimizations instead of all-or-nothing
